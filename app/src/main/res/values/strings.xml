@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tutorial_02</string>
+    <string name="editText">editText</string>
+    <string name="CALCULATE">CALCULATE</string>
+    <string name="Input">Input</string>
+    <string name="radioButton5">radioButton5</string>
+    <string name="radio_fahr">radio_fahr</string>
+    <string name="calculateAnswer">calculateAnswer</string>
+</resources>
